@@ -1,0 +1,1 @@
+Implementing a simple event-driven project using Cap and RabbitMQ. This is based on <a href="https://dev.to/ahmedshahjr/efficient-event-communication-implementing-event-bus-and-outbox-patterns-with-cap-in-net-core-microservices-36oe?signin=true">this tutorial</a>.
