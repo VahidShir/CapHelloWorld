@@ -1,0 +1,6 @@
+@CapHelloWorldConsumer_HostAddress = http://localhost:5220
+
+GET {{CapHelloWorldConsumer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
